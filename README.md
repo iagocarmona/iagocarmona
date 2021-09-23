@@ -1,6 +1,7 @@
-![iago carmona](https://user-images.githubusercontent.com/69121686/131956569-25d58ae3-41bb-45b8-9ae0-6a5bb25ac00e.jpg)
+![iago carmona](https://user-images.githubusercontent.com/69121686/134570509-3092eb37-bb11-43df-99f1-d2d3c696a6c9.png)
 
 # 👋 Olá, sejam bem-vindos ao meu perfil github! </p>
+
 
 ## Me chamo Iago Ortega Carmona, estudo na Universidade Tecnológica Federal do Paraná na cidade de Campo Mourão cursando Ciência da Computação. </p>
 
