@@ -3,7 +3,7 @@
 # 👋 Olá, sejam bem-vindos ao meu perfil github! </p>
 
 
-## Me chamo Iago Ortega Carmona, estudo na Universidade Tecnológica Federal do Paraná na cidade de Campo Mourão cursando Ciência da Computação. </p>
+## Me chamo Iago Ortega Carmona, estudo na Universidade Tecnológica Federal do Paraná na cidade de Campo Mourão e estou cursando Ciência da Computação. </p>
 
 ## Linguagens
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
