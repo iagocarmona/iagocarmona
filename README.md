@@ -7,7 +7,6 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagocarmona&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagocarmona&layout=compact&langs_count=8&theme=github_dark"/>
 </p>
 
